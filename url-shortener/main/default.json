@@ -1,0 +1,10 @@
+[
+    {
+        "path":"/youtube",
+        "url":"https://www.youtube.com"
+    },
+    {
+        "path":"/google",
+        "url":"https://www.google.fr"
+    }
+]
