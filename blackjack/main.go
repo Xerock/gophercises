@@ -246,7 +246,6 @@ func main() {
 				gs = Stand(gs)
 			default:
 				fmt.Println("Invalid action")
-
 			}
 		}
 
